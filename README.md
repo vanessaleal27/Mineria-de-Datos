@@ -5,5 +5,8 @@
 
 [Ejercicio 1 Base de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Ej1_BasesDatos_Equipo_4.pdf)
 
+
+[Ejercicio 2 Práctica Python] (https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/Ej_Python_1877340.ipynb)
+
 ## Fase 2
 ## Fase 3
