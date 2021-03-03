@@ -11,5 +11,8 @@
 
 [Ejercicio 3 Limpieza de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Ej_Limpieza_4.ipynb)
 
+
+[AVANCE PIA](https://github.com/ricardo-botello11/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo_4.ipynb)
+
 ## Fase 2
 ## Fase 3
