@@ -9,7 +9,7 @@
 [Ejercicio 2 Práctica Python](https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/Ej_Python_1877340.ipynb)
 
 
-[Ejercicio 3 Limpieza de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/E3_Practica1_Equipo_4.ipynb)
+[Ejercicio 3 Limpieza de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Ej_Limpieza_4.ipynb)
 
 ## Fase 2
 ## Fase 3
