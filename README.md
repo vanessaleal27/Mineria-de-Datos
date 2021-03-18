@@ -17,4 +17,6 @@
 ## Fase 2
 
 [Presentación Visualización](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Presentaci%C3%B3n_Visualizaci%C3%B3n_4.pdf.pdf)
+
+[Reporte Kahoot]
 ## Fase 3
