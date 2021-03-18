@@ -15,4 +15,6 @@
 [AVANCE PIA](https://github.com/ricardo-botello11/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo_4.ipynb)
 
 ## Fase 2
+
+[Presentación Visualización](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Presentaci%C3%B3n_Visualizaci%C3%B3n_4.pdf.pdf)
 ## Fase 3
