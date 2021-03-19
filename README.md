@@ -19,4 +19,6 @@
 [Presentación Visualización](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Presentaci%C3%B3n_Visualizaci%C3%B3n_4.pdf.pdf)
 
 [Reporte Kahoot](https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/Calificaci%C3%B3n_Visualizaci%C3%B3n_Equipo-4.pdf)
+
+[Mapa Mental 2](https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/MapaMental_2_1877340.pdf)
 ## Fase 3
