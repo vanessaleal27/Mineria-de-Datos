@@ -21,4 +21,7 @@
 [Reporte Kahoot](https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/Calificaci%C3%B3n_Visualizaci%C3%B3n_Equipo-4.pdf)
 
 [Mapa Mental 2](https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/MapaMental_2_1877340.pdf)
+
+
+[Avance PIA II](https://github.com/ricardo-botello11/Mineria-de-Datos/blob/main/AvancePIA_II_Grupo2_4.ipynb)
 ## Fase 3
